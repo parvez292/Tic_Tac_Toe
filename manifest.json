@@ -1,0 +1,25 @@
+{
+  "name": "Tic Tac Toe",
+  "short_name": "Tic_Tac_Toe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#ff0000",
+  "description": "A simple and stylish YouTube video downloader.",
+  "icons": [
+    {
+      "src": "https://i.ibb.co.com/gbZ9QNY4/game.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}}
+  ]
+}}
+  ]
+}
